@@ -20,7 +20,7 @@
 </h1>
 </div>
 :man_technologist: About Me : </br> 
-I am Computer Science student from :us: </br> 
+I am a Computer Science student from :us: </br> 
  - :telescope: I’m currently building foundational skills for Full Stack Software Engineer role.
 
  - :seedling: Exploring Technical Content Writing.
