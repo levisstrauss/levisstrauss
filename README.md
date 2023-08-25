@@ -15,7 +15,7 @@
 <div align="center" >
   <img  src="https://komarev.com/ghpvc/?username=levisstrauss&style=flat-square&color=blue" alt=""/>
   <h1>
-  hey there
+  Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -25,7 +25,7 @@ I am a Computer Science student from :us: </br>
 
  - :seedling: Exploring Technical Content Writing.
 
- - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+ - :zap: In my free time, I work on my problem-solving skills and read tech articles.
 
  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/student-learning)
  - :mailbox: How to reach me: [![Twitter Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/levis2021)
