@@ -50,8 +50,3 @@ I am a Computer Science student from :us: </br>
 </div>
 
 ---
-
-### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=levisstrauss&theme=dark&border_radius=5.1&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levisstrauss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
