@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="800"/>
+  <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="800" height="500"/>
 </div>
 <div id="badges" align="center">
   <a href="www.linkedin.com/in/student-learning">
