@@ -1,4 +1,4 @@
-![Banner Image Describing Tech and Development Concepts](URL_to_Banner_Image)
+![Banner Image Describing Tech and Development Concepts](Banner.png)
 
 # Hello World!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Zakaria Coulibay.
 
