@@ -39,6 +39,6 @@ I am a Computer Science student from :us: </br>
 <a href="https://dev.to/ABSphreak" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 </div>
 <p align="center">
-  <img src="https://andyruwruw.vercel.app/api/skills" style="height:50px; width:50px;">
+  <img src="https://andyruwruw.vercel.app/api/skills" style="height:100px; width:100px;">
 </p>
 ---
