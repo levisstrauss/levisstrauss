@@ -1,6 +1,6 @@
-# Hello World! I'm [Your Name] 👋
+# Hello World!👋 I'm Zakaria Coulibay.
 
-## Full Stack Software Engineer | Meticulous Problem Solver | Lifelong Learner
+## Full Stack Software Engineer | Meticulous Problem Solver | Lifelong Learner.
 
 ![Banner Image Describing Tech and Development Concepts](URL_to_Banner_Image)
 
