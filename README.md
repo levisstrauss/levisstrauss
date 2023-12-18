@@ -1,3 +1,71 @@
+# Hello World! I'm [Your Name] 👋
+
+## Full Stack Software Engineer | Meticulous Problem Solver | Lifelong Learner
+
+![Banner Image Describing Tech and Development Concepts](URL_to_Banner_Image)
+
+### About Me
+I'm a dedicated student currently building foundational skills for a Software Engineer role. I'm prepared for the challenges of the position and eager to utilize my communication and problem-solving skills to meet company goals. I'm on the lookout for opportunities where I can gain hands-on experience, connect with others, build relationships, and manage projects with minimal oversight. I'm a great multitasker and time manager excited to learn from professionals.
+
+### Education 📚
+- **Bachelor of Science in Computer Science with a Minor in Mathematics** (Expected May 2024) | Penn State, Harrisburg, PA
+- **Associate of Science in Computer Science** | Community College of Philadelphia
+
+### Technical Skills 💻
+- **Web/Media**: React, Next.js, Angular, HTML, CSS, Tailwind css, Bootstrap, Chakra UI.
+- **Backend**: Node.js, SpringBoot, Flask, Django.
+- **Mobile**: React Native, iOS, Android.
+- **Programming Languages**: C/C++, Python, Java, Node.js, JavaScript, TypeScript, C#, Kotlin.
+- **Databases**: MySQL, PostgreSQL, Firebase, MongoDB, SQL.
+- **Other Skills**: REST API design and building, Version Control with Git and GitHub.
+
+### Projects 🚀
+_Coming Soon - Stay tuned for some exciting projects I'm working on!_
+
+### Certifications 🏅
+- Frontend Developer career path, Scrimba, June 2022.
+- Data structures and software design, Edx, Jun 2020.
+- OOP Java, Codewithmosh, Dec 2019.
+- C++, Codewithmosh, Oct 2023.
+- Mastering Next.js 13 with TypeScript, Oct 2023.
+- Version Control Git, Coursera, Aug 2023.
+
+### Leadership & Recognition 🌟
+- **NSLS Orientation and Leadership Training Certificate**: Demonstrating a commitment to success through active learning, diversity, emotional intelligence, and self-analysis.
+- **ACM Member**: Engaging in the computing community at a professional level.
+- **NSLS Society of Leadership and Success**: Recognized for academic and leadership potential.
+
+### Let's Connect 🤝
+- [LinkedIn](Your_LinkedIn_Profile)
+- [GitHub](Your_GitHub_Profile)
+- [Email](mailto:Your_Email)
+
+Feel free to reach out for collaborations, learning opportunities, or just for a chat about technology and innovation!
+
+<!-- Please replace 'URL_to_Banner_Image', 'Your_LinkedIn_Profile', 'Your_GitHub_Profile', and 'Your_Email' with your actual URLs and contact information. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" width="500"/>
 </div>
