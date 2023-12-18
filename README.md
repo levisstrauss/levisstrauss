@@ -1,18 +1,18 @@
+![Banner Image Describing Tech and Development Concepts](URL_to_Banner_Image)
+
 # Hello World!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Zakaria Coulibay.
 
 ## Full Stack Software Engineer | Meticulous Problem Solver | Lifelong Learner.
 
-![Banner Image Describing Tech and Development Concepts](URL_to_Banner_Image)
-
 ### About Me
-I'm a dedicated student currently building foundational skills for a Software Engineer role. I'm prepared for the challenges of the position and eager to utilize my communication and problem-solving skills to meet company goals. I'm on the lookout for opportunities where I can gain hands-on experience, connect with others, build relationships, and manage projects with minimal oversight. I'm a great multitasker and time manager excited to learn from professionals.
+I'm a dedicated full-stack engineer currently building foundational skills for a Software Engineer role. I'm prepared for the challenges of the position and eager to utilize my communication and problem-solving skills to meet company goals. I'm on the lookout for opportunities where I can gain hands-on experience, connect with others, build relationships, and manage projects with minimal oversight. I'm a great multitasker and time manager excited to learn from professionals.
 
 ### Education 📚
 - **Bachelor of Science in Computer Science with a Minor in Mathematics** (Expected May 2024) | Penn State, Harrisburg, PA
 - **Associate of Science in Computer Science** | Community College of Philadelphia
 
 ### Technical Skills 💻
-- **Web/Media**: React, Next.js, Angular, HTML, CSS, Tailwind css, Bootstrap, Chakra UI.
+- **Web/Media**: React, Next.js, Angular, HTML, CSS, Tailwind CSS, Bootstrap, Chakra UI.
 - **Backend**: Node.js, SpringBoot, Flask, Django.
 - **Mobile**: React Native, iOS, Android.
 - **Programming Languages**: C/C++, Python, Java, Node.js, JavaScript, TypeScript, C#, Kotlin.
@@ -33,7 +33,8 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 ### Leadership & Recognition 🌟
 - **NSLS Orientation and Leadership Training Certificate**: Demonstrating a commitment to success through active learning, diversity, emotional intelligence, and self-analysis.
 - **ACM Member**: Engaging in the computing community at a professional level.
-- **NSLS Society of Leadership and Success**: Recognized for academic and leadership potential.
+- **NSLS National Society of Leadership and Success**: Recognized for academic and leadership potential.
+- **NSLS National Society of Leadership and Success**: Advanced Leadership Certification
 
 ### Let's Connect 🤝
 - [LinkedIn](Your_LinkedIn_Profile)
@@ -42,7 +43,6 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 
 Feel free to reach out for collaborations, learning opportunities, or just for a chat about technology and innovation!
 
-<!-- Please replace 'URL_to_Banner_Image', 'Your_LinkedIn_Profile', 'Your_GitHub_Profile', and 'Your_Email' with your actual URLs and contact information. -->
 
 
 
