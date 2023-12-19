@@ -42,19 +42,19 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 ### Leadership & Recognition 🌟 --------------------->
 <p>
   <a href="https://app.nsls.org/web/public/social/share/badge/LSx1HasfHXVoDAgAQQN3bN" target="_blank"><img src="images/b2.png" width="40" height="40" alt="NSLS Advanced Leadership Certification" style="vertical-align: middle;" /></a>
-  <span style="vertical-align: middle;">**NSLS National Society of Leadership and Success**: Advanced Leadership Certification.</span>
+  <span style="vertical-align: middle;"> **NSLS National Society of Leadership and Success**: Advanced Leadership Certification.</span>
 </p>
 <p>
   <a href="https://app.nsls.org/web/public/social/share/badge/Shk8vg89H8P8kYf2bmZfZK" target="_blank"><img src="images/b1.png" width="40" height="40" alt="NSLS Leadership Training Certificate" style="vertical-align: middle;" /></a>
-  <span style="vertical-align: middle;">**NSLS National Society of Leadership and Success**: Orientation and Leadership Training Certificate.</span>
+  <span style="vertical-align: middle;"> ** NSLS National Society of Leadership and Success member**: Orientation and Leadership Training Certificate.</span>
 </p>
 <p>
   <a href="#" target="_blank"><img src="images/acm.png" width="40" height="40" alt="ACM Member" style="vertical-align: middle;" /></a>
-  <span style="vertical-align: middle;">**ACM Member**: Engaging in the computing community at a professional level.</span>
+  <span style="vertical-align: middle;"> **ACM Member**: Engaging in the computing community at a professional level.</span>
 </p>
 <p>
   <a href="#" target="_blank"><img src="images/upe.png" width="40" height="40" alt="NSLS Member" style="vertical-align: middle;" /></a>
-  <span style="vertical-align: middle;">**NSLS National Society of Leadership and Success**: Recognized for academic and leadership potential.</span>
+  <span style="vertical-align: middle;">**UPE Upsilon Pi Epsilon member**: Recognized for academic and leadership potential.</span>
 </p>
 
 ### Statistics ⚡️ -------------------------------------------->
