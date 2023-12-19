@@ -13,12 +13,16 @@ I'm a dedicated full-stack engineer currently building foundational skills for a
 - **Associate of Science in Computer Science** | Community College of Philadelphia
 
 ### Technical Skills 💻
-- **Web/Media**: React, Next.js, Angular, HTML, CSS, Tailwind CSS, Bootstrap, Chakra UI.
-- **Backend**: Node.js, SpringBoot, Flask, Django.
-- **Mobile**: React Native, iOS, Android.
-- **Programming Languages**: C/C++, Python, Java, Node.js, JavaScript, TypeScript, C#, Kotlin.
-- **Databases**: MySQL, PostgresSQL, Firebase, MongoDB, SQL.
-- **Other Skills**: REST API design and building, Version Control with Git and GitHub.
+
+- **Web/Media**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-black?style=flat-square&logo=chakra-ui)
+- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+- **Mobile**: ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react) ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=ios) ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
+- **Programming Languages**: ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B) ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python) ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java) ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp) ![Kotlin](https://img.shields.io/badge/-Kotlin-black?style=flat-square&logo=kotlin)
+- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) ![PostgresSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=postgresql) ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase) ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
+- **Other Skills**: REST API design and building, Version Control with ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) and ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+- **Operating Systems**: ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=macos)
+- **IDEs**: ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea) ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm) ![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android-studio) ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode) ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
+- **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=google-cloud) ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku) ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
 ### Projects 🚀
 _Coming Soon - Stay tuned for some exciting projects I'm working on!_
@@ -28,16 +32,29 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 - Data structures and software design, Edx, Jun 2020.
 - OOP Java, Codewithmosh, Dec 2019.
 - C++, Codewithmosh, Oct 2023.
-- Mastering Next.js 13 with TypeScript, Oct 2023.
+- Mastering Next.js 13 with TypeScript, Codewithmosh, Oct 2023.
 - Version Control Git, Coursera, Aug 2023.
 
 ### Leadership & Recognition 🌟
-- **NSLS Orientation and Leadership Training Certificate**: Demonstrating a commitment to success through active learning, diversity, emotional intelligence, and self-analysis.
-- **ACM Member**: Engaging in the computing community at a professional level.
-- **NSLS National Society of Leadership and Success**: Recognized for academic and leadership potential.
-- **NSLS National Society of Leadership and Success**: Advanced Leadership Certification.
+<p>
+  <a href="https://app.nsls.org/web/public/social/share/badge/LSx1HasfHXVoDAgAQQN3bN" target="_blank"><img src="images/b2.png" width="50" height="50" alt="NSLS Advanced Leadership Certification" style="vertical-align: middle;" /></a>
+  <span style="vertical-align: middle;">**NSLS National Society of Leadership and Success**: Advanced Leadership Certification.</span>
+</p>
+<p>
+  <a href="https://app.nsls.org/web/public/social/share/badge/Shk8vg89H8P8kYf2bmZfZK" target="_blank"><img src="images/b1.png" width="50" height="50" alt="NSLS Leadership Training Certificate" style="vertical-align: middle;" /></a>
+  <span style="vertical-align: middle;">**NSLS Orientation and Leadership Training Certificate**: Demonstrating a commitment to success through active learning, diversity, emotional intelligence, and self-analysis.</span>
+</p>
+<p>
+  <a href="#" target="_blank"><img src="images/acm.png" width="50" height="50" alt="ACM Member" style="vertical-align: middle;" /></a>
+  <span style="vertical-align: middle;">**ACM Member**: Engaging in the computing community at a professional level.</span>
+</p>
+<p>
+  <a href="#" target="_blank"><img src="images/upe.png" width="50" height="50" alt="NSLS Member" style="vertical-align: middle;" /></a>
+  <span style="vertical-align: middle;">**NSLS National Society of Leadership and Success**: Recognized for academic and leadership potential.</span>
+</p>
 
 ### Let's Connect 🤝
+
 <div>
     <a href="https://www.linkedin.com/in/codemon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
