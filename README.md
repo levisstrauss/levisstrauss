@@ -46,7 +46,7 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 </p>
 <p>
   <a href="https://app.nsls.org/web/public/social/share/badge/Shk8vg89H8P8kYf2bmZfZK" target="_blank"><img src="images/b1.png" width="40" height="40" alt="NSLS Leadership Training Certificate" style="vertical-align: middle;" /></a>
-  <span style="vertical-align: middle;">**NSLS Orientation and Leadership Training Certificate**: Demonstrating a commitment to success through active learning, diversity, emotional intelligence, and self-analysis.</span>
+  <span style="vertical-align: middle;">**NSLS National Society of Leadership and Success**: Orientation and Leadership Training Certificate.</span>
 </p>
 <p>
   <a href="#" target="_blank"><img src="images/acm.png" width="40" height="40" alt="ACM Member" style="vertical-align: middle;" /></a>
