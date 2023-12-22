@@ -6,7 +6,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="hi there"/> I'm Zakaria Coulibaly.
 ## A Full Stack Software Engineer | Meticulous Problem Solver | Lifelong Learner.
 ### About Me 🙋🏽‍♂️ ----------->
-I'm a dedicated full-stack engineer currently building foundational skills for a Software Engineer role. I'm prepared for the challenges of the position and eager to utilize my communication and problem-solving skills to meet company goals. I'm on the lookout for opportunities where I can gain hands-on experience, connect with others, build relationships, and manage projects with minimal oversight. I'm a great multitasker and time manager excited to learn from professionals.
+As a Full Stack Software Engineer, I bring a robust blend of front-end and back-end skills, coupled with a passion for crafting seamless user experiences and efficient systems. My journey in tech began with a fascination for how software impacts every facet of our lives, and it has evolved into a career that fuses innovative design with reliable functionality. I excel in translating complex requirements into user-friendly solutions, always aiming to exceed performance benchmarks. I am dedicated to continuous learning and staying ahead of industry trends, ensuring that my contributions not only meet but advance business objectives. Whether working solo or as part of a dynamic team, I bring a commitment to excellence and a readiness to tackle challenges head-on. Let's collaborate to build software that stands out for its elegance and effectiveness.
 
 ### My Motto 🌟
 "Code with passion, innovate with purpose, and never stop learning – every challenge is a stepping stone to success."<br>
