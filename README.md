@@ -5,18 +5,18 @@
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="hi there"/> I'm Zakaria Coulibaly.
 ## A Full Stack Software Engineer | Meticulous Problem Solver | Lifelong Learner.
-### About Me 🙋🏽‍♂️ ---------------------------------->
+### About Me 🙋🏽‍♂️ ----------->
 I'm a dedicated full-stack engineer currently building foundational skills for a Software Engineer role. I'm prepared for the challenges of the position and eager to utilize my communication and problem-solving skills to meet company goals. I'm on the lookout for opportunities where I can gain hands-on experience, connect with others, build relationships, and manage projects with minimal oversight. I'm a great multitasker and time manager excited to learn from professionals.
 
 ### My Motto 🌟
 "Code with passion, innovate with purpose, and never stop learning – every challenge is a stepping stone to success."<br>
 This personal mantra guides my approach to software engineering, where each line of code is not just a task, but a step towards mastering the art of problem-solving and creating impactful solutions.
 
-### Education 📚 ----------------------------------->
+### Education 📚 ----------->
 - **Bachelor of Science in Computer Science with a Minor in Mathematics** (Expected May 2024) | Penn State, Harrisburg, PA
 - **Associate of Science in Computer Science** | Community College of Philadelphia, PA
 
-### Technical Skills 💻 ---------------------------->
+### Technical Skills 💻 ----------->
 
 - **Web/Media**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-black?style=flat-square&logo=chakra-ui)
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
@@ -28,10 +28,10 @@ This personal mantra guides my approach to software engineering, where each line
 - **IDEs**: ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea) ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm) ![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android-studio) ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode) ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
 - **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure) ![Google Cloud](https://img.shields.io/badge/-Google_Cloud-black?style=flat-square&logo=google-cloud) ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku) ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
-### Projects 🚀 ------------------------------------->
+### Projects 🚀 --------------->
 _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 
-### Certifications 🏅 ------------------------------->
+### Certifications 🏅 ------------>
 - Frontend Developer career path, Scrimba, June 2022.
 - Data structures and software design, Edx, Jun 2020.
 - OOP Java, Codewithmosh, Dec 2019.
@@ -39,7 +39,7 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 - Mastering Next.js 13 with TypeScript, Codewithmosh, Oct 2023.
 - Version Control Git, Coursera, Aug 2023.
 
-### Leadership & Recognition 🌟 --------------------->
+### Leadership & Recognition 🌟 ---------->
 <p>
   <a href="https://app.nsls.org/web/public/social/share/badge/LSx1HasfHXVoDAgAQQN3bN" target="_blank"><img src="images/b2.png" width="40" height="40" alt="NSLS Advanced Leadership Certification" style="vertical-align: middle;" /></a>
   <span style="vertical-align: middle;"> **NSLS National Society of Leadership and Success**: Advanced Leadership Certification.</span>
@@ -57,13 +57,13 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
   <span style="vertical-align: middle;">**UPE Upsilon Pi Epsilon member**: Recognized for academic and leadership potential.</span>
 </p>
 
-### Statistics ⚡️ -------------------------------------------->
+### Statistics ⚡️ -------------->
 
 ![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=levisstrauss&show_icons=true&theme=tokyonight)
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=levisstrauss&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levisstrauss&theme=tokyonight) 
 
-### Let's Connect 🤝 ----------------------------------------->
+### Let's Connect 🤝 ----------->
 
 <div>
     <a href="https://www.linkedin.com/in/codemon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
