@@ -6,7 +6,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="hi there"/> I'm Zakaria Coulibaly.
 ## A Full Stack Software Engineer | Meticulous Problem Solver | Lifelong Learner.
 ### About Me 🙋🏽‍♂️ ----------->
-As a Full Stack Software Engineer, I bring a robust blend of front-end and back-end skills, coupled with a passion for crafting seamless user experiences and efficient systems. My journey in tech began with a fascination for how software impacts every facet of our lives, and it has evolved into a career that fuses innovative design with reliable functionality. I excel in translating complex requirements into user-friendly solutions, always aiming to exceed performance benchmarks. I am dedicated to continuous learning and staying ahead of industry trends, ensuring that my contributions not only meet but advance business objectives. Whether working solo or as part of a dynamic team, I bring a commitment to excellence and a readiness to tackle challenges head-on. Let's collaborate to build software that stands out for its elegance and effectiveness.
+A dedicated software engineer with a profound passion for software engineering, artificial intelligence, and its integral subset, machine learning. I believe in harnessing the synergy of these disciplines to drive transformative solutions and make significant contributions to the industry.
 
 ### My Motto 🌟
 "Code with passion, innovate with purpose, and never stop learning – every challenge is a stepping stone to success."<br>
@@ -38,6 +38,7 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 - C++, Codewithmosh, Oct 2023.
 - Mastering Next.js 13 with TypeScript, Codewithmosh, Oct 2023.
 - Version Control Git, Coursera, Aug 2023.
+- React 
 
 ### Leadership & Recognition 🌟 ---------->
 <p>
