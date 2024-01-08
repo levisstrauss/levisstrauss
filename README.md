@@ -51,7 +51,7 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 </p>
 <p>
   <a href="#" target="_blank"><img src="images/acm.png" width="40" height="40" alt="ACM Member" style="vertical-align: middle;" /></a>
-  <span style="vertical-align: middle;"> **ACM Member**: Engaging in the computing community at a professional level.</span>
+  <span style="vertical-align: middle;"> **ACM Member** Association for Computing Machinery</span>
 </p>
 <p>
   <a href="#" target="_blank"><img src="images/upe.png" width="40" height="40" alt="NSLS Member" style="vertical-align: middle;" /></a>
