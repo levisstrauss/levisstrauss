@@ -5,18 +5,29 @@
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="hi there"/> I'm Zakaria Coulibaly.
 ## A Full Stack Software Engineer | Meticulous Problem Solver | Lifelong Learner.
-### About Me 🙋🏽‍♂️ ----------->
-A dedicated software engineer with a profound passion for software engineering, artificial intelligence, and its integral subset, machine learning. I believe in harnessing the synergy of these disciplines to drive transformative solutions and make significant contributions to the industry.
+## About Me 🙋🏽‍♂️ 
+👨‍💻 **Software Engineering Enthusiast**: With a solid foundation in software engineering principles, I bring technical expertise and problem-solving skills to tackle complex challenges effectively.
 
-### My Motto 🌟
+📚 **Continuous Learner**: Actively seeking opportunities to apply my theoretical knowledge in practical scenarios, aiming to contribute to and evolve with a leading tech organization.
+
+🗣 **Communicator and Collaborator**: Proficient in fostering professional relationships, I excel in environments that require clear communication and teamwork.
+
+🤹‍♂️ **Autonomous Multitasker**: Capable of managing multiple tasks independently, I prioritize efficiency and time management to deliver results.
+
+🌟 **Aspiring to Excellence**: Eager to learn from industry veterans, I aim to integrate into and contribute meaningfully to your team, driving forward both personal and organizational growth.
+
+
+My proficiency in establishing and nurturing professional relationships, combined with my ability to independently manage tasks, renders me an invaluable asset to any team. Known for my multitasking efficiency and effective time management, I am keen to absorb knowledge from industry experts and make significant contributions to your organization.
+
+## My Motto 🌟
 "Code with passion, innovate with purpose, and never stop learning – every challenge is a stepping stone to success."<br>
 This personal mantra guides my approach to software engineering, where each line of code is not just a task, but a step towards mastering the art of problem-solving and creating impactful solutions.
 
-### Education 📚 ----------->
+## Education 📚 
 - **Bachelor of Science in Computer Science with a Minor in Mathematics** (Expected May 2024) | Penn State, Harrisburg, PA
 - **Associate of Science in Computer Science** | Community College of Philadelphia, PA
 
-### Technical Skills 💻 ----------->
+## Technical Skills 💻 
 
 - **Web/Media**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-black?style=flat-square&logo=chakra-ui)
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
@@ -40,7 +51,7 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 - Version Control Git, Coursera, Aug 2023.
 - React 
 
-### Leadership & Recognition 🌟 ---------->
+## Leadership & Recognition 🌟 ---------->
 <p>
   <a href="https://app.nsls.org/web/public/social/share/badge/LSx1HasfHXVoDAgAQQN3bN" target="_blank"><img src="images/b2.png" width="40" height="40" alt="NSLS Advanced Leadership Certification" style="vertical-align: middle;" /></a>
   <span style="vertical-align: middle;"> **NSLS National Society of Leadership and Success**: Advanced Leadership Certification.</span>
