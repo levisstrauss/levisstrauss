@@ -74,8 +74,8 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 ## Statistics ⚡️ 
 
 ![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=levisstrauss&show_icons=true&theme=tokyonight)
-![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=levisstrauss&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levisstrauss&theme=tokyonight) 
+![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=levisstrauss&layout=compact&theme=tokyonight)
 
 ## Let's Connect 🤝 
 <div>
