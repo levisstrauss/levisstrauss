@@ -39,10 +39,10 @@ This personal mantra guides my approach to software engineering, where each line
 - **IDEs**: ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea) ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm) ![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android-studio) ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode) ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
 - **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku) ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 
-### Projects 🚀 --------------->
+## Projects 🚀 
 _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 
-### Certifications 🏅 ------------>
+## Certifications 🏅 
 - Frontend Developer career path, Scrimba, June 2022.
 - Data structures and software design, Edx, Jun 2020.
 - OOP Java, Codewithmosh, Dec 2019.
@@ -51,7 +51,7 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 - Version Control Git, Coursera, Aug 2023.
 - React 
 
-## Leadership & Recognition 🌟 ---------->
+## Leadership & Recognition 🌟 
 <p>
   <a href="https://app.nsls.org/web/public/social/share/badge/LSx1HasfHXVoDAgAQQN3bN" target="_blank"><img src="images/b2.png" width="40" height="40" alt="NSLS Advanced Leadership Certification" style="vertical-align: middle;" /></a>
   <span style="vertical-align: middle;"> **NSLS National Society of Leadership and Success**: Advanced Leadership Certification.</span>
@@ -69,13 +69,13 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
   <span style="vertical-align: middle;">**UPE Upsilon Pi Epsilon member**: Recognized for academic and leadership potential.</span>
 </p>
 
-### Statistics ⚡️ -------------->
+## Statistics ⚡️ 
 
 ![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=levisstrauss&show_icons=true&theme=tokyonight)
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=levisstrauss&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levisstrauss&theme=tokyonight) 
 
-### Let's Connect 🤝 ----------->
+## Let's Connect 🤝 
 
 <div>
     <a href="mailto:levisstrauss11@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Yahoo!%20Mail-%234B0094.svg?&style=flat-square&logo=yahoo!-mail&logoColor=white" alt="Yahoo! Mail"></a>
