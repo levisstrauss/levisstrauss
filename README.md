@@ -15,20 +15,14 @@
 🤹‍♂️ **Autonomous Multitasker**: Capable of managing multiple tasks independently, I prioritize efficiency and time management to deliver results.
 
 🌟 **Aspiring to Excellence**: Eager to learn from industry veterans, I aim to integrate into and contribute meaningfully to your team, driving forward both personal and organizational growth.
-
-
 My proficiency in establishing and nurturing professional relationships, combined with my ability to independently manage tasks, renders me an invaluable asset to any team. Known for my multitasking efficiency and effective time management, I am keen to absorb knowledge from industry experts and make significant contributions to your organization.
-
 ## My Motto 🌟
 "Code with passion, innovate with purpose, and never stop learning – every challenge is a stepping stone to success."<br>
 This personal mantra guides my approach to software engineering, where each line of code is not just a task, but a step towards mastering the art of problem-solving and creating impactful solutions.
-
 ## Education 📚 
 - **Bachelor of Science in Computer Science with a Minor in Mathematics** (Expected May 2024) | Penn State, Harrisburg, PA
 - **Associate of Science in Computer Science** | Community College of Philadelphia, PA
-
 ## Technical Skills 💻 
-
 - **Web/Media**: ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js) ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular) ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-black?style=flat-square&logo=tailwind-css) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap) ![Chakra UI](https://img.shields.io/badge/-Chakra_UI-black?style=flat-square&logo=chakra-ui)
 - **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js) ![SpringBoot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring) ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask) ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 - **Mobile**: ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react) ![iOS](https://img.shields.io/badge/-iOS-black?style=flat-square&logo=ios) ![Android](https://img.shields.io/badge/-Android-black?style=flat-square&logo=android)
@@ -38,10 +32,8 @@ This personal mantra guides my approach to software engineering, where each line
 - **Operating Systems**: ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=windows) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux) ![MacOS](https://img.shields.io/badge/-MacOS-black?style=flat-square&logo=macos)
 - **IDEs**: ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual-studio-code) ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-black?style=flat-square&logo=intellij-idea) ![PyCharm](https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=pycharm) ![Android Studio](https://img.shields.io/badge/-Android_Studio-black?style=flat-square&logo=android-studio) ![Xcode](https://img.shields.io/badge/-Xcode-black?style=flat-square&logo=xcode) ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat-square&logo=eclipse)
 - **Cloud**: ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws) ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku) ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify) ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-
 ## Projects 🚀 
 _Coming Soon - Stay tuned for some exciting projects I'm working on!_
-
 ## Certifications 🏅 
 - Frontend Developer career path, Scrimba, June 2022.
 - Data structures and software design, Edx, Jun 2020.
@@ -50,7 +42,6 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 - Mastering Next.js 13 with TypeScript, Codewithmosh, Oct 2023.
 - Version Control Git, Coursera, Aug 2023.
 - React 
-
 ## Leadership & Recognition 🌟 
 <p>
   <a href="https://app.nsls.org/web/public/social/share/badge/LSx1HasfHXVoDAgAQQN3bN" target="_blank"><img src="images/b2.png" width="40" height="40" alt="NSLS Advanced Leadership Certification" style="vertical-align: middle;" /></a>
@@ -68,15 +59,12 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
   <a href="#" target="_blank"><img src="images/upe.png" width="40" height="40" alt="NSLS Member" style="vertical-align: middle;" /></a>
   <span style="vertical-align: middle;">**UPE Upsilon Pi Epsilon member**: Recognized for academic and leadership potential.</span>
 </p>
-
 ## Statistics ⚡️ 
-
 ![YourUsername's GitHub stats](https://github-readme-stats.vercel.app/api?username=levisstrauss&show_icons=true&theme=tokyonight)
 ![Top Lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=levisstrauss&layout=compact&theme=tokyonight)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=levisstrauss&theme=tokyonight) 
 
 ## Let's Connect 🤝 
-
 <div>
     <a href="mailto:levisstrauss11@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Yahoo!%20Mail-%234B0094.svg?&style=flat-square&logo=yahoo!-mail&logoColor=white" alt="Yahoo! Mail"></a>
     <a href="https://www.linkedin.com/in/codemon" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
