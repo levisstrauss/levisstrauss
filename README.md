@@ -3,7 +3,7 @@
 <img  src="https://komarev.com/ghpvc/?username=levisstrauss&style=flat-square&color=blue" alt=""/>
 </div>
 
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="hi there"/> I'm Zakaria Coulibaly.
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="hi there"/> I'm Zak.
 ## A Full Stack Software Engineer | Meticulous Problem Solver | Lifelong Learner.
 ## About Me 🙋🏽‍♂️ 
 👨‍💻 **Software Engineering Enthusiast**: With a solid foundation in software engineering principles, I bring technical expertise and problem-solving skills to tackle complex challenges effectively.
