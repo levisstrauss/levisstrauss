@@ -43,11 +43,12 @@ This personal mantra guides my approach to software engineering, where each line
 _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 
 ## Certifications 🏅 
-• C Programming with Linux by Institut Mines-Télécom & Dartmouth College on Coursera – (May 2024) • Deep Learning Specialization by Stanford University & DeepLearning.AI, Coursera – (May 2024)
-• Machine Learning Specialization by Stanford University & DeepLearning.AI, Coursera – (May 2024)
-• Mathematics for Machine Learning and Data Science by DeepLearning.AI, Coursera – (April 2024)
-• The Frontend Developer Career Path, Scrimba – (June 2022)
-• Frontend Developer career path, Scrimba, June 2022.
+- C Programming with Linux by Institut Mines-Télécom & Dartmouth College on Coursera – (May 2024)
+- Deep Learning Specialization by Stanford University & DeepLearning.AI, Coursera – (May 2024)
+- Machine Learning Specialization by Stanford University & DeepLearning.AI, Coursera – (May 2024)
+- Mathematics for Machine Learning and Data Science by DeepLearning.AI, Coursera – (April 2024)
+- The Frontend Developer Career Path, Scrimba – (June 2022)
+- Frontend Developer career path, Scrimba, June 2022.
   
 ## Leadership & Recognition 🌟 
 <p>
