@@ -74,6 +74,7 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 ---
 
 ### Certifications 🏅 
+- Natural Language Processing Specialization by DeepLearning.AI, on Coursera (Jun 2024)
 - C Programming with Linux by Institut Mines-Télécom & Dartmouth College on Coursera – (May 2024)
 - Deep Learning Specialization by Stanford University & DeepLearning.AI, Coursera – (May 2024)
 - Machine Learning Specialization by Stanford University & DeepLearning.AI, Coursera – (May 2024)
