@@ -85,19 +85,19 @@ _Coming Soon - Stay tuned for some exciting projects I'm working on!_
 ### Leadership & Recognition 🌟 
 
 <p>
-  <a href="https://app.nsls.org/web/public/social/share/badge/LSx1HasfHXVoDAgAQQN3bN" target="_blank"><img src="images/b2.png" width="40" height="40" alt="NSLS Advanced Leadership Certification" style="vertical-align: middle;" /></a>
+  <a href="https://app.nsls.org/web/public/social/share/badge/LSx1HasfHXVoDAgAQQN3bN" target="_blank"><img src="images/b2.png" width="20" height="20" alt="NSLS Advanced Leadership Certification" style="vertical-align: middle;" /></a>
   <span style="vertical-align: middle;"> NSLS National Society of Leadership and Success: Advanced Leadership Certification.</span>
 </p>
 <p>
-  <a href="https://app.nsls.org/web/public/social/share/badge/Shk8vg89H8P8kYf2bmZfZK" target="_blank"><img src="images/b1.png" width="40" height="40" alt="NSLS Leadership Training Certificate" style="vertical-align: middle;" /></a>
+  <a href="https://app.nsls.org/web/public/social/share/badge/Shk8vg89H8P8kYf2bmZfZK" target="_blank"><img src="images/b1.png" width="20" height="20" alt="NSLS Leadership Training Certificate" style="vertical-align: middle;" /></a>
   <span style="vertical-align: middle;"> NSLS National Society of Leadership and Success: Orientation and Leadership Training Certificate.</span>
 </p>
 <p>
-  <a href="#" target="_blank"><img src="images/acm.png" width="40" height="40" alt="ACM Member" style="vertical-align: middle;" /></a>
+  <a href="#" target="_blank"><img src="images/acm.png" width="20" height="20" alt="ACM Member" style="vertical-align: middle;" /></a>
   <span style="vertical-align: middle;"> ACM Member: Association for Computing Machinery</span>
 </p>
 <p>
-  <a href="#" target="_blank"><img src="images/upe.png" width="40" height="40" alt="UPE Member" style="vertical-align: middle;" /></a>
+  <a href="#" target="_blank"><img src="images/upe.png" width="20" height="20" alt="UPE Member" style="vertical-align: middle;" /></a>
   <span style="vertical-align: middle;"> UPE Upsilon Pi Epsilon Member: Recognized for academic and leadership potential.</span>
 </p>
 
