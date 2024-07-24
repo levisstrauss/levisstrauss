@@ -4,17 +4,17 @@
 With a solid foundation in software engineering and a passion for lifelong learning, I bring a blend of technical skills, problem-solving abilities, and a collaborative spirit to the tech world. I thrive on tackling complex challenges and am dedicated to applying my knowledge to impactful projects.
 
 ## Technical Skills 🛠️
-- **Languages:** C++, Python, Java, JavaScript, TypeScript, C#, Kotlin
-- **Frameworks & Libraries:** React, Next.js, Angular, Flask, Django
-- **Tools & Platforms:** GitHub, AWS, Heroku, Netlify, Vercel
-- **Databases:** MySQL, PostgreSQL, Firebase, MongoDB
+- **Languages:** C++, Python, Java, JavaScript, TypeScript, Kotlin
+- **Frameworks & Libraries:** React, Flask
+- **Tools & Platforms:** GitHub, AWS, Vercel
+- **Databases:** MySQL, PostgreSQL, Firebase
 - **Mobile Development:** React Native, iOS, Android
 
 ## Key Projects 📚
 - **[Coming Soon – Stay tuned for exciting projects!](#):** Working on innovative solutions that leverage my skills and knowledge.
 - **[Previous Work & Contributions](#):** Explore my past projects and contributions to the tech community.
 
-You can view more [here](https://github.com/levisstrauss).
+<!--You can view more [here](https://github.com/levisstrauss).-->
 
 ## Leadership & Recognition 🌟
 - **Advanced Leadership Certification:** Recognized for exceptional leadership skills by the National Society of Leadership and Success.
