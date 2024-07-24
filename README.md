@@ -1,4 +1,4 @@
-👋 Hi, I'm Zak! I’m a Software Engineer with a focus on developing innovative solutions and continuously expanding my technical expertise. 🚀
+👋 Hi, I'm Zak! a Software Engineer with a focus on developing innovative solutions and continuously expanding my technical expertise. 🚀
 
 ## About Me
 With a solid foundation in software engineering and a passion for lifelong learning, I bring a blend of technical skills, problem-solving abilities, and a collaborative spirit to the tech world. I thrive on tackling complex challenges and am dedicated to applying my knowledge to impactful projects.
