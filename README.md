@@ -5,10 +5,10 @@ With a solid foundation in software engineering and a passion for lifelong learn
 
 ## Technical Skills 🛠️
 - **Languages:** C++, Python, Java, JavaScript, TypeScript, Kotlin
-- **Frameworks & Libraries:** React, Flask
+- **Frameworks & Libraries:** React, Flask, Express
 - **Tools & Platforms:** GitHub, AWS, Vercel
 - **Databases:** MySQL, PostgreSQL, Firebase
-- **Mobile Development:** React Native, iOS, Android
+- **Mobile Development:** React Native, iOS
 
 ## Key Projects 📚
 - **[Coming Soon – Stay tuned for exciting projects!](#):** Working on innovative solutions that leverage my skills and knowledge.
@@ -20,6 +20,18 @@ With a solid foundation in software engineering and a passion for lifelong learn
 - **Advanced Leadership Certification:** Recognized for exceptional leadership skills by the National Society of Leadership and Success.
 - **ACM Member:** Active member of the Association for Computing Machinery.
 - **UPE Member:** Honored for academic and leadership potential by Upsilon Pi Epsilon.
+
+## Certifications 🏅 
+- Natural Language Processing Specialization by DeepLearning.AI, on Coursera (Jun 2024)
+- C Programming with Linux by Institut Mines-Télécom & Dartmouth College on Coursera (May 2024)
+- Deep Learning Specialization by Stanford University & DeepLearning.AI, Coursera (May 2024)
+- Machine Learning Specialization by Stanford University & DeepLearning.AI, Coursera (May 2024)
+- Mathematics for Machine Learning and Data Science by DeepLearning.AI, Coursera (April 2024)
+- The Frontend Developer Career Path, Scrimba (June 2022)
+
+## Education 📚 
+- **Bachelor of Science in Computer Science with a Minor in Mathematics** (May 2024) | Penn State University
+- **Associate of Science in Computer Science** | Community College of Philadelphia, PA
 
 ## Professional Goals 🚀
 - **Career Development:** Aiming to advance my career in software development, with a focus on roles that utilize my technical and leadership skills to drive impactful solutions.
