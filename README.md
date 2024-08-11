@@ -1,7 +1,11 @@
 👋 Hi, I'm Zak! a Software Engineer with a focus on developing innovative solutions and continuously expanding my technical expertise. 🚀
 
 ## About Me
-With a solid foundation in software engineering and a passion for lifelong learning, I bring a blend of technical skills, problem-solving abilities, and a collaborative spirit to the tech world. I thrive on tackling complex challenges and am dedicated to applying my knowledge to impactful projects.
+I am a highly motivated Software Engineer with a strong focus on machine learning and full-stack de-
+velopment. With a background in Computer Science and Mathematics, I am passionate about creating
+innovative software solutions that leverage machine learning to enhance user experiences. My goal is to
+build scalable and eﬀicient applications that meet business goals and user needs. I am committed to
+continuous learning and professional growth in the fields of machine learning and software engineering.
 
 ## Technical Skills 🛠️
 - **Languages:** C++, Python, Java, JavaScript, TypeScript, Kotlin
