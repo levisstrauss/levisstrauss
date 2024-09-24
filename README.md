@@ -1,11 +1,19 @@
 👋 Hi, I'm Zak! a Software Engineer with a focus on developing innovative solutions and continuously expanding my technical expertise. 🚀
 
 ## About Me
-I am a highly motivated Software Engineer with a strong focus on machine learning and full-stack development. 
-With a background in Computer Science and Mathematics, I am passionate about creating
-innovative software solutions that leverage machine learning application and software to enhance user experiences.
-My goal is to build scalable and eﬀicient applications that meet business goals and user needs. I am committed to
-continuous learning and professional growth in the fields of machine learning and software engineering.
+I am a results-driven Software Engineer with expertise in machine learning and full-stack development, combining a strong foundation in Computer Science and Mathematics. Passionate about leveraging cutting-edge technologies to build scalable, high-performance software solutions, I focus on optimizing both user experiences and business outcomes. With a commitment to continuous learning and professional growth, I thrive in fast-paced environments, delivering innovative applications that drive success. My goal is to contribute to impactful projects that bridge the gap between technical excellence and user-centered design.
+
+## Announcement 📢
+
+**Exciting News!**  
+I'm currently working on some new projects that I can't wait to share with you! 🚀 Stay tuned for updates on:
+
+<!---- A cutting-edge machine learning project focusing on **Natural Language Processing (NLP)** and **AI-driven applications**.
+- An open-source **full-stack application** aimed at streamlining project management workflows.
+- Upcoming **blog posts** and tutorials to help fellow developers master **ML algorithms**, **React development**, and more. -->
+
+Make sure to **watch this space** for releases and insights! Feel free to reach out if you'd like to collaborate or discuss any of these projects.
+
 
 ## Technical Skills 🛠️
 - **Languages:** C++, Python, Java, JavaScript, TypeScript, Kotlin
@@ -15,8 +23,13 @@ continuous learning and professional growth in the fields of machine learning an
 - **Mobile Development:** React Native, iOS
 
 ## Key Projects 📚
-- **[Coming Soon – Stay tuned for exciting projects!](#):** Working on innovative solutions that leverage my skills and knowledge.
-- **[Previous Work & Contributions](#):** Explore my past projects and contributions to the tech community.
+<!--- - **[Coming Soon – Stay tuned for exciting projects!](#):** Working on innovative solutions that leverage my skills and knowledge. -->
+<!--- **[Previous Work & Contributions](#):** Explore my past projects and contributions to the tech community. -->
+<!-------------- Frontend ---------------->
+<!-------------- Backend  ---------------->
+<!-------------  Machine learning -------->
+<!-------------- AI ---------------->
+<!-------------- Data Engineering ---------------->
 
 <!--You can view more [here](https://github.com/levisstrauss).-->
 
@@ -34,7 +47,7 @@ continuous learning and professional growth in the fields of machine learning an
 - The Frontend Developer Career Path, Scrimba (June 2022)
 
 ## Education 📚 
-- **Bachelor of Science in Computer Science with a Minor in Mathematics** (May 2024) | Penn State University
+- **Bachelor of Science in Computer Science with a Minor in Mathematics** | Penn State University
 - **Associate of Science in Computer Science** | Community College of Philadelphia, PA
 
 ## Professional Goals 🚀
