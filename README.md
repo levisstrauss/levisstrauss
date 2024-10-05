@@ -6,7 +6,7 @@ I am a results-driven Software Engineer with expertise in machine learning and f
 ## Announcement 📢
 
 **Exciting News!**  
-I'm currently working on some new projects that I can't wait to share with you! 🚀 Stay tuned for updates on:
+I'm currently working on some new projects that I can't wait to share with you! 🚀 Stay tuned for updates on: <br/>
 <span>My Personal Portfolio website [Porfolio](https://codemon.io)</span>
 
 <!---- A cutting-edge machine learning project focusing on **Natural Language Processing (NLP)** and **AI-driven applications**.
