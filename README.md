@@ -55,7 +55,7 @@ Make sure to **watch this space** for releases and insights! Feel free to reach 
 - **Continuous Learning:** Committed to staying current with industry trends and enhancing my coding skills through ongoing education and practice. 📈
 
 ## Connect with Me 📬
-- 🐦 [Twitter](https://twitter.com/codemon91)
+- 🐦 [Twitter](https://x.com/codemon2024)
 - 📫 [Email](mailto:levisstrauss11@yahoo.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/codemon)
 
