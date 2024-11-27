@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Zak <a href="https://wwww.codemon.io"><img src="./images/photo.jpg" width="60" height="60"/></a>
+# 👋 Hi, I'm Zak <a href="https://codemon.io"><img src="./images/photo.jpg" width="60" height="60"/></a>
 
 AI/ML Engineer with a strong foundation in Computer Science and Mathematics, passionate about developing data-driven solutions and machine learning applications.
 
