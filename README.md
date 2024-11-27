@@ -1,63 +1,91 @@
-👋 Hi, I'm Zak! a Software Engineer with a focus on developing innovative solutions and continuously expanding my technical expertise. 🚀
+# 👋 Hi, I'm Zak
+
+AI/ML Engineer with a strong foundation in Computer Science and Mathematics, passionate about developing data-driven solutions and machine learning applications.
 
 ## About Me
-I am a results-driven Software Engineer with expertise in machine learning and full-stack development, combining a strong foundation in Computer Science and Mathematics. Passionate about leveraging cutting-edge technologies to build scalable, high-performance software solutions, I focus on optimizing both user experiences and business outcomes. With a commitment to continuous learning and professional growth, I thrive in fast-paced environments, delivering innovative applications that drive success. My goal is to contribute to impactful projects that bridge the gap between technical excellence and user-centered design.
 
-## Announcement 📢
-
-**Exciting News!**  
-I'm currently working on some new projects that I can't wait to share with you! 🚀 Stay tuned for updates on: <br/>
-<span>My Personal Portfolio website [Portfolio](https://codemon.io)</span>
-
-<!---- A cutting-edge machine learning project focusing on **Natural Language Processing (NLP)** and **AI-driven applications**.
-- An open-source **full-stack application** aimed at streamlining project management workflows.
-- Upcoming **blog posts** and tutorials to help fellow developers master **ML algorithms**, **React development**, and more. -->
-
-Make sure to **watch this space** for releases and insights! Feel free to reach out if you'd like to collaborate or discuss any of these projects.
-
+I am an aspiring AI/ML Engineer with a solid background in software development and machine learning. My academic foundation in Computer Science and Mathematics, combined with hands-on experience in ML frameworks and deep learning, positions me to contribute effectively to AI-driven projects. I focus on implementing machine learning solutions while maintaining software engineering best practices. Currently seeking entry-level opportunities where I can apply my ML expertise and continue growing as an AI engineer.
 
 ## Technical Skills 🛠️
-- **Languages:** C++, Python, Java, JavaScript, TypeScript, Kotlin
-- **Frameworks & Libraries:** React, Flask, Express
-- **Tools & Platforms:** GitHub, AWS, Vercel
-- **Databases:** MySQL, PostgreSQL, Firebase
-- **Mobile Development:** React Native, iOS
 
-## Key Projects 📚
-<!--- - **[Coming Soon – Stay tuned for exciting projects!](#):** Working on innovative solutions that leverage my skills and knowledge. -->
-<!--- **[Previous Work & Contributions](#):** Explore my past projects and contributions to the tech community. -->
-<!-------------- Frontend ---------------->
-<!-------------- Backend  ---------------->
-<!-------------  Machine learning -------->
-<!-------------- AI ---------------->
-<!-------------- Data Engineering ---------------->
+**Machine Learning & AI:**
+- Frameworks: TensorFlow, PyTorch, scikit-learn
+- Areas: Natural Language Processing, Deep Learning
+- Tools: Jupyter, NumPy, Pandas, Matplotlib
 
-<!--You can view more [here](https://github.com/levisstrauss).-->
+**Software Development:**
+- Languages: Python, C++, JavaScript
+- Web Frameworks: Flask, React, HTML, CSS
+- Tools: Git, Docker, AWS
+- Databases: PostgreSQL, MySQL
 
-## Leadership & Recognition 🌟
-- **Advanced Leadership Certification:** Recognized for exceptional leadership skills by the National Society of Leadership and Success.
-- **ACM Member:** Active member of the Association for Computing Machinery.
-- **UPE Member:** Honored for academic and leadership potential by Upsilon Pi Epsilon.
+## Key Projects 🔬
 
-## Certifications 🏅 
-- Natural Language Processing Specialization by DeepLearning.AI, on Coursera (Jun 2024)
-- C Programming with Linux by Institut Mines-Télécom & Dartmouth College on Coursera (May 2024)
-- Deep Learning Specialization by Stanford University & DeepLearning.AI, Coursera (May 2024)
-- Machine Learning Specialization by Stanford University & DeepLearning.AI, Coursera (May 2024)
-- Mathematics for Machine Learning and Data Science by DeepLearning.AI, Coursera (April 2024)
-- The Frontend Developer Career Path, Scrimba (June 2022)
+### Coming soon
 
-## Education 📚 
-- **Bachelor of Science in Computer Science with a Minor in Mathematics** | Penn State University
-- **Associate of Science in Computer Science** | Community College of Philadelphia, PA
+<!-- ### Project Name 1
+- Description of your ML project
+- Technologies used: PyTorch, scikit-learn, etc.
+- Link to repository
 
-## Professional Goals 🚀
-- **Career Development:** Aiming to advance my career in software development, with a focus on roles that utilize my technical and leadership skills to drive impactful solutions.
-- **Continuous Learning:** Committed to staying current with industry trends and enhancing my coding skills through ongoing education and practice. 📈
+### Project Name 2
+- Description of your ML project
+- Technologies used: TensorFlow, Keras, etc.
+- Link to repository
 
-## Connect with Me 📬
-- 🐦 [Twitter](https://x.com/codemon2024)
-- 📫 [Email](mailto:levisstrauss11@yahoo.com)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/codemon)
+### Project Name 3
+- Description of your ML project
+- Technologies used: List relevant technologies
+- Link to repository -->
 
-I’m eager to collaborate on projects that push the boundaries of technology and innovation. Let’s connect! 🌍
+## Certifications & Education 📚
+
+**Education:**
+- Bachelor of Science in Computer Science, Minor in Mathematics | Penn State University
+- Associate of Science in Computer Science | Community College of Philadelphia
+
+**Relevant Certifications:**
+- Generative AI for Software Development professional Certificate
+- Natural Language Processing Specialization - DeepLearning.AI
+- Deep Learning Specialization - Stanford University & DeepLearning.AI
+- Machine Learning Specialization - Stanford University & DeepLearning.AI
+- Mathematics for Machine Learning and Data Science - DeepLearning.AI
+- C Programming with Linux - Dartmouth College, Institut Mines-Télécom
+- Frontend career path - Scrimba
+
+## Professional Development 🎯
+
+- Actively implementing ML models using PyTorch and TensorFlow
+- Developing expertise in NLP and computer vision applications
+- Contributing to open-source ML projects
+- Studying advanced ML concepts and keeping up with latest research
+
+## Leadership & Professional Affiliations 🌟
+
+- Member, Association for Computing Machinery (ACM)
+- Member, Upsilon Pi Epsilon (International Honor Society for Computing Sciences)
+- Member, PHI Phi Theta Kappa
+
+## Let's Connect! 📫
+
+I'm actively seeking entry-level AI/ML Engineering positions and always eager to collaborate on innovative machine learning projects.
+
+<div style="display: flex; justify-content: left; gap: 10px;">
+  <a href="https://codemon.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/codemon" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://x.com/codemon2024" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+
+  <a href="mailto:zcoulibalyeng@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+---
+*Currently working on: Building a comprehensive ML project portfolio focused on practical applications of deep learning.*
