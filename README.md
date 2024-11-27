@@ -1,4 +1,14 @@
-# 👋 Hi, I'm Zak
+
+
+
+
+
+# 👋 Hi, I'm Zak <img src="./images/photo.jpg" width="60" height="60" style="border-radius: 50%;"/>
+
+
+
+
+
 
 AI/ML Engineer with a strong foundation in Computer Science and Mathematics, passionate about developing data-driven solutions and machine learning applications.
 
