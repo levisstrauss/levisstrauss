@@ -46,7 +46,8 @@ I am an aspiring AI/ML Engineer with a solid background in software development 
 - Associate of Science in Computer Science | Community College of Philadelphia
 
 **Relevant Certifications:**
-- Generative AI for Software Development professional Certificate
+- AI programming with Python Nanodegree Professional Certificate - Udacity
+- Generative AI for Software Development professional Certificate - DeepLearning.AI
 - Natural Language Processing Specialization - DeepLearning.AI
 - Deep Learning Specialization - Stanford University & DeepLearning.AI
 - Machine Learning Specialization - Stanford University & DeepLearning.AI
