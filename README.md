@@ -2,7 +2,7 @@
 
 > A Software Engineer & AI/ML Enthusiast
 
-[![Portfolio Hub Preview](./assets/img.png)](https://yourusername.github.io)
+[![Portfolio Hub Preview](./images/img.png)](https://levisstrauss.github.io)
 
 ## 🔭 Portfolio Areas
 
