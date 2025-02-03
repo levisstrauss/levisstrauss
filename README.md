@@ -1,95 +1,38 @@
+# 👋 Hi, I'm Zak
 
-# 👋 Hi, I'm Zak <a href="https://codemon.io"><img src="./images/photo.jpg" width="60" height="60"/></a>
+> A Software Engineer & AI/ML Enthusiast
 
-AI/ML Engineer with a strong foundation in Computer Science and Mathematics, passionate about developing data-driven solutions and machine learning applications.
+[![Portfolio Hub Preview](./assets/img.png)](https://yourusername.github.io)
 
-## About Me
+## 🔭 Portfolio Areas
 
-I am an aspiring AI/ML Engineer with a solid background in software development and machine learning. My academic foundation in Computer Science and Mathematics, combined with hands-on experience in ML frameworks and deep learning, positions me to contribute effectively to AI-driven projects. I focus on implementing machine learning solutions while maintaining software engineering best practices. Currently seeking entry-level opportunities where I can apply my ML expertise and continue growing as an AI engineer.
+### 💻 Software Engineering 
+- Full-stack development with JavaScript & React
+- System design & API Development
+- DevOps & Cloud (AWS)
 
-## Technical Skills 🛠️
+### 🤖 AI/ML
+- Machine Learning (TensorFlow, PyTorch, scikit-learn)
+- Deep Learning & Computer Vision
+- Natural Language Processing 
 
-**Machine Learning & AI:**
-- Frameworks: TensorFlow, PyTorch, scikit-learn
-- Areas: Natural Language Processing, Deep Learning
-- Tools: Jupyter, NumPy, Pandas, Matplotlib
+## 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Software Development:**
-- Languages: Python, C++, JavaScript
-- Web Frameworks: Flask, React, HTML, CSS
-- Tools: Git, Docker, AWS
-- Databases: PostgreSQL, MySQL
 
-## Key Projects 🔬
-
-### Coming soon
-
-<!-- ### Project Name 1
-- Description of your ML project
-- Technologies used: PyTorch, scikit-learn, etc.
-- Link to repository
-
-### Project Name 2
-- Description of your ML project
-- Technologies used: TensorFlow, Keras, etc.
-- Link to repository
-
-### Project Name 3
-- Description of your ML project
-- Technologies used: List relevant technologies
-- Link to repository -->
-
-## Certifications & Education 📚
-
-**Education:**
-- Bachelor of Science in Computer Science, Minor in Mathematics | Penn State University
-- Associate of Science in Computer Science | Community College of Philadelphia
-
-**Relevant Certifications:**
-- AI programming with Python Nanodegree Professional Certificate - Udacity
-- Generative AI for Software Development professional Certificate - DeepLearning.AI
-- Natural Language Processing Specialization - DeepLearning.AI
-- Deep Learning Specialization - Stanford University & DeepLearning.AI
-- Machine Learning Specialization - Stanford University & DeepLearning.AI
-- Mathematics for Machine Learning and Data Science - DeepLearning.AI
-- C Programming with Linux - Dartmouth College, Institut Mines-Télécom
-- Frontend career path - Scrimba
-
-## Professional Development 🎯
-
-- Actively implementing ML models using PyTorch and TensorFlow
-- Developing expertise in NLP and computer vision applications
-- Contributing to open-source ML projects
-- Studying advanced ML concepts and keeping up with latest research
-
-## Leadership & Professional Affiliations 🌟
-
-- Member, Association for Computing Machinery (ACM)
-- Member, Upsilon Pi Epsilon (International Honor Society for Computing Sciences)
-- Member, PHI Phi Theta Kappa
-
-## Let's Connect! 📫
-
-I'm actively seeking entry-level AI/ML Engineering positions and always eager to collaborate on innovative machine learning projects.
-
-<div style="display: flex; justify-content: left; gap: 10px;">
-  <a href="https://codemon.io" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/codemon" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="https://x.com/codemon2024" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-
-  <a href="mailto:zcoulibalyeng@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</div>
+## 🌐 Let's Connect
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://yourusername.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](your-github-url)
 
 ---
-
-*Currently working on: Building a comprehensive ML project portfolio focused on practical applications of deep learning.*
