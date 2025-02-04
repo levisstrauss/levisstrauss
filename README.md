@@ -2,6 +2,10 @@
 
 > A Software Engineer & AI/ML Enthusiast
 
+<a href="https://levisstrauss.github.io">My portfolio</a>
+
+This portfolio is under development
+
 [![Portfolio Hub Preview](./images/img.png)](https://levisstrauss.github.io)
 
 ## 🔭 Portfolio Areas
