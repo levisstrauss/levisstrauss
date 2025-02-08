@@ -2,7 +2,7 @@
 
 > A Software Engineer & AI/ML Enthusiast
 
-<a href="https://levisstrauss.github.io">My portfolio</a>
+<a href="https://codemon.io">My portfolio</a>
 
 This portfolio is under development
 
