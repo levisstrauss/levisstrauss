@@ -16,7 +16,7 @@ This portfolio is under development
 - DevOps & Cloud (AWS)
 
 ### 🤖 AI/ML
-- Machine Learning (TensorFlow, PyTorch, scikit-learn)
+- Machine Learning (PyTorch, scikit-learn)
 - Deep Learning & Computer Vision
 - Natural Language Processing 
 
