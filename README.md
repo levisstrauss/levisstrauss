@@ -6,7 +6,7 @@
 
 This portfolio is under development
 
-[![Portfolio Hub Preview](./images/imgs.png)](https://levisstrauss.github.io)
+[![Portfolio Hub Preview](./images/imgs.png)
 
 ## 🔭 Portfolio Areas
 
