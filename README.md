@@ -6,7 +6,7 @@
 
 This portfolio is under development
 
-![Portfolio Hub Preview](./images/imgs.png)
+![Portfolio Hub Preview](./images/screenshot.png)
 
 ## 🔭 Portfolio Areas
 
