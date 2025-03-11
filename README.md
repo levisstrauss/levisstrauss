@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Zak
-> An AI/ML Enthusiast & Practitioner
+> Software Engineer and An AI/ML Enthusiast 
 
 This portfolio is under development
 
