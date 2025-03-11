@@ -9,6 +9,7 @@ This portfolio is under development
 
 ## 🔭 Portfolio Focus
 ### 🤖 AI/ML
+- Software Engineering
 - Machine Learning (PyTorch, scikit-learn, TensorFlow)
 - Deep Learning & Computer Vision
 - Natural Language Processing 
