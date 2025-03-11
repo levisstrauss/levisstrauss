@@ -4,7 +4,7 @@
 This portfolio is under development
 
 <a href="https://codemon.io" target="_blank">
-  <img src="./images/screenshot.png" alt="Portfolio Hub Preview">
+  <img src="./images/backback.png" alt="Portfolio Hub Preview">
 </a>
 
 ## 🔭 Portfolio Focus
