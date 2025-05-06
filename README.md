@@ -34,12 +34,4 @@
 
 ---
 
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
-- 💻 [GitHub](https://github.com/yourusername)
-
----
-
 > “Crafting solutions through code, driven by curiosity and impact.”  
