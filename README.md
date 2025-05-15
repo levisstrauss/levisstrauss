@@ -29,7 +29,7 @@
 - ✅ Machine Learning (scikit-learn, TensorFlow, PyTorch)
 - ✅ Deep Learning & Computer Vision
 - ✅ Natural Language Processing
-- ✅ Software Engineering for AI Systems
+- ✅ Software Engineering 
 - ✅ Model Evaluation, Optimization & Deployment
 
 ---
