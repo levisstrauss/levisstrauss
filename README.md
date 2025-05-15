@@ -31,6 +31,7 @@
 - ✅ Natural Language Processing
 - ✅ Software Engineering 
 - ✅ Model Evaluation, Optimization & Deployment
+- ✅ Cloud Env. AWS
 
 ---
 
