@@ -1,4 +1,4 @@
-Hi 👋🏼, I'm Zakaria Coulibaly!
+## Hi 👋🏼, I'm Zakaria Coulibaly!
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Software+Developer;Problem+Solver;Data+Enthusiast" alt="Typing SVG" />
 </div>
@@ -8,17 +8,25 @@ Hi 👋🏼, I'm Zakaria Coulibaly!
   <a href="https://codemon.io"><img src="https://img.shields.io/badge/Website-codemon.io-brightgreen" alt="Website"></a>
   <a href="mailto:zcoulibalyeng@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-red" alt="Email"></a>
 </p>
-🚀 About Me
+
+## 🚀 About Me
+
 <img align="right" width="300" height="auto" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="AI Engineer"/>
 Passionate AI/ML Engineer and Software Developer with a relentless drive to build intelligent systems with real-world impact. Currently pursuing an MS in Computer Science specializing in ML & Data Science at the University of Illinois. I blend strong theoretical foundations with practical implementation experience across the full ML lifecycle.
 
-💡 My Mission: Transforming complex data into intelligent solutions that solve meaningful problems.
+## 💡 My Mission: 
 
-🔭 Currently Working On: Building production-ready ML pipelines and exploring computer vision applications</br>
-🌱 Learning: Advanced MLOps practices, transformer architectures, and distributed training systems</br>
-🧠 Thinking About: How to make AI systems more robust, interpretable, and accessible</br>
-📫 Connect: zcoulibalyeng@gmail.com | LinkedIn | Personal Website</br>
-🛠️ Tech Arsenal</br>
+Transforming complex data into intelligent solutions that solve meaningful problems.
+
+## 🔭 Currently Working On: 
+Building production-ready ML pipelines and exploring computer vision applications</br>
+## 🌱 Learning:
+Advanced MLOps practices, transformer architectures, and distributed training systems</br>
+## 🧠 Thinking About: 
+How to make AI systems more robust, interpretable, and accessible</br>
+## 📫 Connect: 
+zcoulibalyeng@gmail.com | LinkedIn | Personal Website</br>
+## 🛠️ Tech Arsenal</br>
 <p align="center">
   <b>Languages & Frameworks</b>
 </p>
@@ -55,7 +63,7 @@ Passionate AI/ML Engineer and Software Developer with a relentless drive to buil
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 </p>
 
-🎓 Education & Certifications
+## 🎓 Education & Certifications
 
 🎓 MS in Computer Science (Data Science) - University of Illinois (Expected 2026)</br>
 🎓 BS in Computer Science - Penn State University (2024)</br>
@@ -66,7 +74,7 @@ Passionate AI/ML Engineer and Software Developer with a relentless drive to buil
 📜 DeepLearning.AI Specialization - Machine Learning, Deep Learning, NLP</br>
 📜 C Programming with Linux - Dartmouth College, Institut Mines-Télécom</br>
 
-🔥 Core Areas of Expertise
+## 🔥 Core Areas of Expertise
 
 💻 Machine Learning Engineering - End-to-end ML systems design and implementation</br>
 📊 Computer Vision - Object detection, image classification, and transfer learning</br>
@@ -81,7 +89,7 @@ Transfer Learning for Computer Vision: Beyond the Basics
 Feature Engineering Techniques That Actually Work
 MLOps: Taking Machine Learning to Production -->
 
-🤝 Let's Connect
+## 🤝 Let's Connect
 <p align="center">
   <a href="https://linkedin.com/in/codemon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/levisstrauss"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
