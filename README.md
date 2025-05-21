@@ -14,11 +14,11 @@ Passionate AI/ML Engineer and Software Developer with a relentless drive to buil
 
 💡 My Mission: Transforming complex data into intelligent solutions that solve meaningful problems.
 
-🔭 Currently Working On: Building production-ready ML pipelines and exploring computer vision applications
-🌱 Learning: Advanced MLOps practices, transformer architectures, and distributed training systems
-🧠 Thinking About: How to make AI systems more robust, interpretable, and accessible
-📫 Connect: zcoulibalyeng@gmail.com | LinkedIn | Personal Website
-🛠️ Tech Arsenal
+🔭 Currently Working On: Building production-ready ML pipelines and exploring computer vision applications</br>
+🌱 Learning: Advanced MLOps practices, transformer architectures, and distributed training systems</br>
+🧠 Thinking About: How to make AI systems more robust, interpretable, and accessible</br>
+📫 Connect: zcoulibalyeng@gmail.com | LinkedIn | Personal Website</br>
+🛠️ Tech Arsenal</br>
 <p align="center">
   <b>Languages & Frameworks</b>
 </p>
