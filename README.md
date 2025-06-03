@@ -1,6 +1,6 @@
 ## Hi 👋🏼, I'm Zakaria Coulibaly!
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Problem+Solver;Data+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=AI%2FML+Engineer;Solftware+Developer;Problem+Solver;Data+Enthusiast" alt="Typing SVG" />
 </div>
 <p align="center">
   <a href="https://github.com/levisstrauss"><img src="https://img.shields.io/github/followers/levisstrauss?label=Follow&style=social" alt="GitHub followers"></a>
