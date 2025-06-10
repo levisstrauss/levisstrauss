@@ -81,6 +81,7 @@ zcoulibalyeng@gmail.com | LinkedIn | Personal Website</br>
 🚀 MLOps - Building robust, production-ready ML pipelines</br>
 📈 Predictive Analytics - Classification, regression, and feature engineering</br>
 🔍 Data Science - Data preprocessing, visualization, and statistical analysis</br>
+🔍 Software Engineering - From the user requirements understanding to software design and buiding
 
 <!-- 📚 Recent Blog Posts
 
