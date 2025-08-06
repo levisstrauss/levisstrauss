@@ -92,7 +92,7 @@
 
 ### 🌐 Full-Stack Applications
 - **[AI/ML Portfolio Website](https://github.com/levisstrauss/Next-Generation-AI-ML-Engineer-Portfolio)** - Modern React/Next.js portfolio with TypeScript
-- **[Precalculus Learning App](https://github.com/levisstrauss/Precalculus-app)** - Interactive JavaScript application for math learning
+- **[Microservices Ride sharing](https://github.com/levisstrauss/microservices-ride-sharing-app)** - Microservices interaction devs using Go
 
 ### 🤖 AI/ML Systems  
 - **[End-to-End MLOps Pipeline](https://github.com/levisstrauss/End-to-End-MLOps-Pipeline-NYC-Rental-Price-Prediction)** - Production ML pipeline with MLflow and W&B
