@@ -111,7 +111,7 @@
 
 ## 🎓 Education & Certifications
 
-- 🎓 **MS Computer Science** (Data Science) - University of Illinois (Expected 2026)
+- 🎓 **MS Computer Science** - University of Illinois (Expected 2026)
 - 🎓 **BS Computer Science** - Penn State University (2024)
 - 📜 **AWS Machine Learning Fundamentals** - Udacity Nanodegree
 - 📜 **AI Programming with Python** - Udacity Nanodegree
