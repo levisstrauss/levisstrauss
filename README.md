@@ -57,13 +57,15 @@
 - **[NYC Rental Price Prediction Pipeline](https://github.com/levisstrauss/End-to-End-MLOps-Pipeline-NYC-Rental-Price-Prediction)** - Complete MLOps pipeline with MLflow tracking, automated retraining, and API deployment
 - **[Real-time Face Mask Detection](https://github.com/levisstrauss/Face-Mask-Detection-System-with-ResNet18)** - Production computer vision system achieving 98.2% accuracy with Docker deployment
 
-### ML Infrastructure & Tools
+
+
+<!-- ### ML Infrastructure & Tools
 - **[ML Model Monitoring Dashboard](link-when-ready)** - Real-time model performance tracking with alerting
 - **[Batch Prediction Pipeline](link-when-ready)** - Scalable batch inference system with job scheduling
 
 ### Data Engineering & Analytics
 - **[ML Data Pipeline](link-when-ready)** - Automated ETL pipeline for ML model training and inference
-- **[Feature Engineering Platform](link-when-ready)** - Reusable feature store with versioning and monitoring
+- **[Feature Engineering Platform](link-when-ready)** - Reusable feature store with versioning and monitoring -->
 
 ## 📊 GitHub Analytics
 
