@@ -1,7 +1,7 @@
 # Hi 👋🏼, I'm Zakaria Coulibaly!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=ML+Engineer;Production+ML+Systems;MLOps+Specialist;AI+Systems+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=AI/ML+Engineer;Production+ML+Systems;MLOps+Specialist;AI+Systems+Builder" alt="Typing SVG" />
 </div>
 
 <p align="center">
