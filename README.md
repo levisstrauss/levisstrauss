@@ -14,7 +14,7 @@
 
 <img align="right" width="300" height="auto" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif" alt="ML Engineer"/>
 
-**ML Engineer & Data Scientist** specializing in building production-ready machine learning systems. MS in Computer Science (Data Science focus) at University of Illinois, with expertise in end-to-end ML pipelines, MLOps, and scalable AI systems that solve real-world problems.
+**AI/ML Engineer & Data Scientist** specializing in building production-ready machine learning systems. MS in Computer Science (Data Science focus) at University of Illinois, with expertise in end-to-end ML pipelines, MLOps, and scalable AI systems that solve real-world problems.
 
 ## 💡 What I Do:
 - **ML Systems Engineering**: Building scalable ML pipelines from research to production
