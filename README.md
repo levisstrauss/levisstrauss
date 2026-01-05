@@ -1,6 +1,6 @@
 # Hi, I'm Zakaria Coulibaly 👋 
 
-**MS @ UIUC | AI/ML | MLOps | Python & PyTorch**
+**| MS @ UIUC | AI/ML | MLOps | Agentic AI  | Python & PyTorch |**
 
 What excites me most is seeing how a system is designed — then watching all the pieces come together into 
 something that actually works. I'm the person who reads the source code instead of just the documentation, 
@@ -143,6 +143,7 @@ Currently seeking AI/ML engineering opportunities.
 | [**React Course**](https://github.com/levisstrauss/REACT-COURSE)                 | React 19, TypeScript       | Beginner → Expert | ✅ Complete |
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
+
 
 
 
