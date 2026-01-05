@@ -120,7 +120,6 @@ Currently seeking software engineering and ML engineering opportunities.
 
 </div>
 
-
 ## 🎓 Available Courses
 
 | Course                                                                           | Language/Tech              | Level | Status |
@@ -129,7 +128,8 @@ Currently seeking software engineering and ML engineering opportunities.
 | [**DSA Course**](https://github.com/levisstrauss/DATA-STRUCTURE-COURSE)          | Python                     | Beginner → Expert | ✅ Complete |
 | [**MLOps Course**](https://github.com/levisstrauss/MLOPS-COURSE)                 | End-to-end ML              | Intermediate → Expert | ✅ Complete 
 | [**MCP Course**](https://github.com/levisstrauss/MCP-COURS)                      | MCP                        | Intermediate → Expert | ✅ Complet
-| [**C Course**](https://github.com/levisstrauss/C-COURSE)                         | C23, C++23/26              | Beginner → Advanced | ✅ Complete |
+| [**Go Course**](https://github.com/levisstrauss/GO-COURSE)                       | Go                         | Beginner → Advanced | ✅ Complete |
+| [**C Course**](https://github.com/levisstrauss/C-COURSE)                         | C23                        | Beginner → Advanced | ✅ Complete |
 | [**C/C++ Course**](https://github.com/levisstrauss/CPP-COURSE)                   | C23, C++23/26              | Beginner → Advanced | ✅ Complete |
 | [**Python Course**](https://github.com/levisstrauss/PYTHON-COURSE)               | Python 3.12/3.13           | Beginner → Advanced | ✅ Complete |
 | [**Rust Course**](https://github.com/levisstrauss/RUST-COURSE)                   | Rust                       | Beginner → Advanced | ✅ Complete |
@@ -143,3 +143,4 @@ Currently seeking software engineering and ML engineering opportunities.
 | [**React Course**](https://github.com/levisstrauss/REACT-COURSE)                 | React 19, TypeScript       | Beginner → Expert | ✅ Complete |
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
+
