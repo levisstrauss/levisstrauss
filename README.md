@@ -6,7 +6,7 @@ What excites me most is seeing how a system is designed — then watching all th
 something that actually works. I'm the person who reads the source code instead of just the documentation, 
 and I never stop digging until I understand how something works under the hood.
 
-Currently seeking software engineering and ML engineering opportunities.
+Currently seeking AI/ML engineering opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/codemon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-codemon.io-green?style=flat&logo=safari)](https://codemon.io)
