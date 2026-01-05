@@ -74,15 +74,17 @@ Currently seeking software engineering and ML engineering opportunities.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+<!--![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white) -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
+![RAG Systems](https://img.shields.io/badge/RAG_Systems-FF6F00?style=flat-square&logo=semanticweb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
 
 </div>
 
@@ -141,5 +143,6 @@ Currently seeking software engineering and ML engineering opportunities.
 | [**React Course**](https://github.com/levisstrauss/REACT-COURSE)                 | React 19, TypeScript       | Beginner → Expert | ✅ Complete |
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
+
 
 
