@@ -32,11 +32,19 @@ Currently seeking AI/ML engineering opportunities.
 -->
 
 ## 🔥 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**AWS Bedrock RAG System**](https://github.com/levisstrauss/aws-bedrock-rag-system) | Enterprise RAG chatbot with vector search and semantic retrieval for technical support | AWS Bedrock, Terraform, PostgreSQL (pgvector), Claude 3 |
+| [**ML Production Pipeline**](https://github.com/levisstrauss/aws-ml-pipeline) | End-to-end MLOps workflow with automated training and deployment | AWS SageMaker, Lambda, Step Functions |
+
 <!--
 ### Systems & Infrastructure
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [**Distributed Membership Protocol**](https://github.com/levisstrauss/distributed-membership-protocol) | Fault-tolerant P2P membership with gossip-based failure detection | C++, Network Programming |
+| [**Distributed Key-Value Store**](https://github.com/levisstrauss/distributed-key-value-store) | Replicated storage system with consistency guarantees | C++, Replication, Consensus |
 | [**Distributed Membership Protocol**](https://github.com/levisstrauss/distributed-membership-protocol) | Fault-tolerant P2P membership with gossip-based failure detection | C++, Network Programming |
 | [**Distributed Key-Value Store**](https://github.com/levisstrauss/distributed-key-value-store) | Replicated storage system with consistency guarantees | C++, Replication, Consensus |
 | [**ML Production Pipeline**](https://github.com/levisstrauss/aws-ml-pipeline) | End-to-end MLOps workflow with automated training and deployment | AWS SageMaker, Lambda, Step Functions |
@@ -144,6 +152,7 @@ Currently seeking AI/ML engineering opportunities.
 | [**React Course**](https://github.com/levisstrauss/REACT-COURSE)                 | React 19, TypeScript       | Beginner → Expert | ✅ Complete |
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
+
 
 
 
