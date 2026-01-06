@@ -101,7 +101,7 @@ Currently seeking AI/ML engineering opportunities.
 ## 📜 Certifications
 
 - **Agentic AI Nanodegree** – Udacity (2025)
-- **Machine Learning for DevOps Engineer** – Udacity (2024)
+- **Machine Learning for DevOps Engineer** – Udacity (2025)
 - **AWS Machine Learning Fundamentals** – Udacity (2025)
 - **Machine Learning Specialization** – Stanford & DeepLearning.AI (2024)
 <!--
@@ -152,6 +152,7 @@ Currently seeking AI/ML engineering opportunities.
 | [**React Course**](https://github.com/levisstrauss/REACT-COURSE)                 | React 19, TypeScript       | Beginner → Expert | ✅ Complete |
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
+
 
 
 
