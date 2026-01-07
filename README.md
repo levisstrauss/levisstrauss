@@ -106,10 +106,11 @@ A machine learning pipeline that predicts whether an individual's annual income 
 
 ## 📜 Certifications
 
-- **Agentic AI Nanodegree** – Udacity (2025)
-- **Machine Learning for DevOps Engineer** – Udacity (2025)
-- **AWS Machine Learning Fundamentals** – Udacity (2025)
-- **Machine Learning Specialization** – Stanford & DeepLearning.AI (2024)
+- **Agentic AI Nanodegree** – Udacity
+- **Building GenAI app with Amazon Bedrock** – Udacity
+- **Machine Learning for DevOps Engineer** – Udacity 
+- **AWS Machine Learning Fundamentals** – Udacity
+- **Machine Learning Specialization** – Stanford & DeepLearning.AI
 <!--
 ---
 
@@ -160,6 +161,7 @@ A machine learning pipeline that predicts whether an individual's annual income 
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
 | [**Terraform and Ansible Course**](https://github.com/levisstrauss/TERRAFORM-ANSIBLE-COURSE)| CI/CD                      | Beginner → Expert | ✅ Complete |
+
 
 
 
