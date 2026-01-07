@@ -129,14 +129,17 @@ Currently seeking AI/ML engineering opportunities.
 
 </div>
 
+https://github.com/levisstrauss/AGENTIC-AI-COURSE
+
 ## 🎓 Available Courses
 
 | Course                                                                           | Language/Tech              | Level | Status |
 |----------------------------------------------------------------------------------|----------------------------|-------|--------|
 | [**System Design Course**](https://github.com/levisstrauss/SYSTEM-DESIGN-COURSE) | Architecture               | Beginner → Expert | ✅ Complete |
 | [**DSA Course**](https://github.com/levisstrauss/DATA-STRUCTURE-COURSE)          | Python                     | Beginner → Expert | ✅ Complete |
-| [**MLOps Course**](https://github.com/levisstrauss/MLOPS-COURSE)                 | End-to-end ML              | Intermediate → Expert | ✅ Complete 
-| [**MCP Course**](https://github.com/levisstrauss/MCP-COURS)                      | MCP                        | Intermediate → Expert | ✅ Complet
+| [**MLOps Course**](https://github.com/levisstrauss/MLOPS-COURSE)                 | End-to-end ML              | Intermediate → Expert | ✅ Complete |
+| [**Agentic AI Course**](https://github.com/levisstrauss/AGENTIC-AI-COURSE)       | Agentic AI                 | Intermediate → Expert | ✅ Complete 
+| [**MCP Course**](https://github.com/levisstrauss/MCP-COURS)                      | MCP                        | Intermediate → Expert | ✅ Complet |
 | [**Go Course**](https://github.com/levisstrauss/GO-COURSE)                       | Go                         | Beginner → Advanced | ✅ Complete |
 | [**C Course**](https://github.com/levisstrauss/C-COURSE)                         | C23                        | Beginner → Advanced | ✅ Complete |
 | [**C/C++ Course**](https://github.com/levisstrauss/CPP-COURSE)                   | C23, C++23/26              | Beginner → Advanced | ✅ Complete |
@@ -152,7 +155,8 @@ Currently seeking AI/ML engineering opportunities.
 | [**React Course**](https://github.com/levisstrauss/REACT-COURSE)                 | React 19, TypeScript       | Beginner → Expert | ✅ Complete |
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
-| [**Terraform and Ansible Course**](https://github.com/levisstrauss/TERRAFORM-ANSIBLE-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
+| [**Terraform and Ansible Course**](https://github.com/levisstrauss/TERRAFORM-ANSIBLE-COURSE)| CI/CD                      | Beginner → Expert | ✅ Complete |
+
 
 
 
