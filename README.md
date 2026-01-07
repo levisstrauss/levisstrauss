@@ -33,10 +33,12 @@ Currently seeking AI/ML engineering opportunities.
 
 ## 🔥 Featured Projects
 
+### AI & Machine Learning
+
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**AWS Bedrock RAG System**](https://github.com/levisstrauss/aws-bedrock-rag-system) | Enterprise RAG chatbot with vector search and semantic retrieval for technical support | AWS Bedrock, Terraform, PostgreSQL (pgvector), Claude 3 |
-| [**ML Production Pipeline**](https://github.com/levisstrauss/aws-ml-pipeline) | End-to-end MLOps workflow with automated training and deployment | AWS SageMaker, Lambda, Step Functions |
+| [**ML Workflow on AWS**](https://github.com/levisstrauss/build-machine-learning-workflow-on-aws) | Build a complete ML workflow for image classification on AWS | AWS SageMaker, Lambda, Step Functions |
 
 <!--
 ### Systems & Infrastructure
@@ -154,6 +156,7 @@ Currently seeking AI/ML engineering opportunities.
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
 | [**Terraform and Ansible Course**](https://github.com/levisstrauss/TERRAFORM-ANSIBLE-COURSE)| CI/CD                      | Beginner → Expert | ✅ Complete |
+
 
 
 
