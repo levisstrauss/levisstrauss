@@ -129,8 +129,6 @@ Currently seeking AI/ML engineering opportunities.
 
 </div>
 
-https://github.com/levisstrauss/AGENTIC-AI-COURSE
-
 ## 🎓 Available Courses
 
 | Course                                                                           | Language/Tech              | Level | Status |
@@ -156,6 +154,7 @@ https://github.com/levisstrauss/AGENTIC-AI-COURSE
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
 | [**Terraform and Ansible Course**](https://github.com/levisstrauss/TERRAFORM-ANSIBLE-COURSE)| CI/CD                      | Beginner → Expert | ✅ Complete |
+
 
 
 
