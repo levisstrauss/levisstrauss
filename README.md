@@ -30,7 +30,6 @@ Currently seeking AI/ML engineering opportunities.
 
 ---
 -->
-A machine learning pipeline that predicts whether an individual's annual income exceeds $50,000 based on census data. Features a FastAPI backend with CI/CD and a Streamlit frontend.
 
 
 
@@ -161,6 +160,7 @@ A machine learning pipeline that predicts whether an individual's annual income 
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
 | [**Terraform and Ansible Course**](https://github.com/levisstrauss/TERRAFORM-ANSIBLE-COURSE)| CI/CD                      | Beginner → Expert | ✅ Complete |
+
 
 
 
