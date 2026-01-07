@@ -30,6 +30,9 @@ Currently seeking AI/ML engineering opportunities.
 
 ---
 -->
+A machine learning pipeline that predicts whether an individual's annual income exceeds $50,000 based on census data. Features a FastAPI backend with CI/CD and a Streamlit frontend.
+
+
 
 ## 🔥 Featured Projects
 
@@ -39,6 +42,7 @@ Currently seeking AI/ML engineering opportunities.
 |---------|-------------|------|
 | [**AWS Bedrock RAG System**](https://github.com/levisstrauss/aws-bedrock-rag-system) | Enterprise RAG chatbot with vector search and semantic retrieval for technical support | AWS Bedrock, Terraform, PostgreSQL (pgvector), Claude 3 |
 | [**ML Workflow on AWS**](https://github.com/levisstrauss/build-machine-learning-workflow-on-aws) | Build a complete ML workflow for image classification on AWS | AWS SageMaker, Lambda, Step Functions |
+| [**Census Income Classification**](https://github.com/levisstrauss/census-income-classifier) | Build and deploy on render a ML model that predicts indiciduals anual income | Python, FastAPI, Streamlit |
 
 <!--
 ### Systems & Infrastructure
@@ -156,6 +160,7 @@ Currently seeking AI/ML engineering opportunities.
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
 | [**Terraform and Ansible Course**](https://github.com/levisstrauss/TERRAFORM-ANSIBLE-COURSE)| CI/CD                      | Beginner → Expert | ✅ Complete |
+
 
 
 
