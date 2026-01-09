@@ -125,41 +125,7 @@ Currently seeking AI/ML & softwaare engineering opportunities.
 
 
 
-## 📚 Open-Source Developer Courses
 
-<div align="left">
-
-**Free, comprehensive programming courses — from zero to professional**
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=Learn+by+doing+%E2%80%94+hands-on+projects;Modern+best+practices;Real-world+examples" alt="Courses tagline" />
-
-</div>
-
-## 🎓 Available Courses
-
-| Course                                                                           | Language/Tech              | Level | Status |
-|----------------------------------------------------------------------------------|----------------------------|-------|--------|
-| [**System Design Course**](https://github.com/levisstrauss/SYSTEM-DESIGN-COURSE) | Architecture               | Beginner → Expert | ✅ Complete |
-| [**DSA Course**](https://github.com/levisstrauss/DATA-STRUCTURE-COURSE)          | Python                     | Beginner → Expert | ✅ Complete |
-| [**MLOps Course**](https://github.com/levisstrauss/MLOPS-COURSE)                 | End-to-end ML              | Intermediate → Expert | ✅ Complete |
-| [**Agentic AI Course**](https://github.com/levisstrauss/AGENTIC-AI-COURSE)       | Agentic AI                 | Intermediate → Expert | ✅ Complete 
-| [**MCP Course**](https://github.com/levisstrauss/MCP-COURS)                      | MCP                        | Intermediate → Expert | ✅ Complet |
-| [**Go Course**](https://github.com/levisstrauss/GO-COURSE)                       | Go                         | Beginner → Advanced | ✅ Complete |
-| [**C Course**](https://github.com/levisstrauss/C-COURSE)                         | C23                        | Beginner → Advanced | ✅ Complete |
-| [**C/C++ Course**](https://github.com/levisstrauss/CPP-COURSE)                   | C23, C++23/26              | Beginner → Advanced | ✅ Complete |
-| [**Python Course**](https://github.com/levisstrauss/PYTHON-COURSE)               | Python 3.12/3.13           | Beginner → Advanced | ✅ Complete |
-| [**Rust Course**](https://github.com/levisstrauss/RUST-COURSE)                   | Rust                       | Beginner → Advanced | ✅ Complete |
-| [**TypeScript Course**](https://github.com/levisstrauss/TYPESCRIPT-COURSE)       | TypeScript 5.x             | Beginner → Expert | ✅ Complete |
-| [**Java Course**](https://github.com/levisstrauss/JAVA-COURSE)                   | Java 17-21, Spring Boot    | Beginner → Expert | ✅ Complete |
-| [**C# Course**](https://github.com/levisstrauss/CSHARP-COURSE)                   | C# 12, .NET 8, ASP.NET     | Beginner → Expert | ✅ Complete |
-| [**Javascript Course**](https://github.com/levisstrauss/JAVASCRIPT-COURSE)       | Javascript                 | Beginner → Expert | ✅ Complete |
-| [**SQL Course**](https://github.com/levisstrauss/SQL-COURSE)                     | PostgreSQL                 | Beginner → Advanced | ✅ Complete |
-| [**Docker Course**](https://github.com/levisstrauss/DOCKER-KUBERNETES-COURSE)    | Docker, Compose            | Beginner → Advanced | ✅ Complete |
-| [**TanStack Course**](https://github.com/levisstrauss/TANSTACK-COURSE)           | Query, Router, Table, Form | Beginner → Expert | ✅ Complete |
-| [**React Course**](https://github.com/levisstrauss/REACT-COURSE)                 | React 19, TypeScript       | Beginner → Expert | ✅ Complete |
-| [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
-| [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
-| [**Terraform and Ansible Course**](https://github.com/levisstrauss/TERRAFORM-ANSIBLE-COURSE)| Terraform & Ansible                      | Beginner → Expert | ✅ Complete |
 
 
 
