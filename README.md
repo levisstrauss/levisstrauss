@@ -6,7 +6,7 @@ What excites me most is seeing how a system is designed — then watching all th
 something that actually works. I'm the person who reads the source code instead of just the documentation, 
 and I never stop digging until I understand how something works under the hood.
 
-Currently seeking AI/ML engineering opportunities.
+Currently seeking AI/ML & softwaare engineering opportunities.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/codemon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-codemon.io-green?style=flat&logo=safari)](https://codemon.io)
@@ -160,6 +160,7 @@ Currently seeking AI/ML engineering opportunities.
 | [**Tailwindcss Course**](https://github.com/levisstrauss/TAILWIND-CSS-COURSE)    | Tailwind CSS               | Beginner → Expert | ✅ Complete |
 | [**CI/CD Course**](https://github.com/levisstrauss/CI-CD-COURSE)                 | CI/CD                      | Beginner → Expert | ✅ Complete |
 | [**Terraform and Ansible Course**](https://github.com/levisstrauss/TERRAFORM-ANSIBLE-COURSE)| Terraform & Ansible                      | Beginner → Expert | ✅ Complete |
+
 
 
 
